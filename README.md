@@ -27,14 +27,14 @@
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://camo.githubusercontent.com/36299b4ecc0771cebaf98a3b0f7c7cad021dbfae012653a486def51b574614e0/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3732302f666f726d61743a776562702f312a6d3552594d5f576b6a344c735a6577706967563574672e6a706567" alt="NodeJS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://camo.githubusercontent.com/36299b4ecc0771cebaf98a3b0f7c7cad021dbfae012653a486def51b574614e0/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a3732302f666f726d61743a776562702f312a6d3552594d5f576b6a344c735a6577706967563574672e6a706567" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angualr" height="40" style="vertical-align:top; margin:4px">
-<img src="https://w7.pngwing.com/pngs/452/495/png-transparent-react-javascript-angularjs-ionic-github-text-logo-symmetry-thumbnail.png" alt="React" height="40" style="vertical-align:top; margin:4px">
-<img src="https://w7.pngwing.com/pngs/1005/511/png-transparent-web-development-html-logo-world-wide-web-consortium-create-html-signature-angle-text-rectangle-thumbnail.png" alt="HTML" height="40" style="vertical-align:top; margin:4px">
+<img src="https://static-00.iconduck.com/assets.00/react-icon-2048x2048-o8k3ymqa.png" alt="React" height="40" style="vertical-align:top; margin:4px">
+<img src=""https://static.wikia.nocookie.net/coding-help/images/0/02/174854.png/revision/latest?cb=20210514134203 alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="40" style="vertical-align:top; margin:4px">
-<img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
+<img src="https://logowik.com/content/uploads/images/mongodb9740.logowik.com.webp" alt="MongoDB" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <br />
